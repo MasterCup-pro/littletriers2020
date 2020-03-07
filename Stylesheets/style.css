@@ -581,6 +581,12 @@ body{
 }
 
 
+.flouti1 {
+	float: left;
+	margin-left: -20px;
+	
+}
+
 .flouti {
 	float: left;
 	
