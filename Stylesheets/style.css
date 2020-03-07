@@ -18,11 +18,6 @@ body{
 		height: 57px;
 }
 
-.text-120{
-	height: 57px;
-	width: 628px;
-}
-
 .top-nav-bar{
 	height: 57px;
 	top: 0;
@@ -149,7 +144,6 @@ body{
 	float: left;
 	z-index: 2;
 	background-color: #ddd;
-
 	
 	
 	
