@@ -584,6 +584,7 @@ body{
 .flouti1 {
 	float: left;
 	margin-left: -100px;
+	margin-top: -25px;
 	
 }
 
