@@ -26,7 +26,7 @@ body{
 .top-nav-bar{
 	height: 120px;
 	top: 0;
-	position: fixed;
+	position: sticky;
 	background: #fff;
 	margin-bottom: 30px;
 	border-bottom: 3px solid orange;
