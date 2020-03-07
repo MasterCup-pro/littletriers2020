@@ -1,0 +1,85 @@
+<html lang="fi">
+  <head>
+		<meta charset="utf-8">
+			<title>Kaivola Café</title>
+			<link rel="stylesheet" href="Stylesheets\style.css">
+			<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+			<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+				<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+				<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+				
+  
+  </head>
+	<body>
+		<div class="top-nav-bar">
+		<div class="search-box">
+				<i class="fa fa-bars" id="menu-btn" onclick="openmenu()"></i>
+				<i class="fa fa-times" id="close-btn" onclick="closemenu()"></i>
+			<a href="index.html"><img src="media/websitelogo.square.png" class="logophoto"></a>
+			<input type="text" class="form-control">
+			<span class="input-group-text"><i class="fa fa-search"></i></span>
+		</div>
+		<div class="menu-bar">
+		<ul>
+		<li><a href="#"><i class="fa fa-shopping-cart"></i>Wishlist</a></li>
+		<li><a href="#">Sign Up</a></li>
+		<li><a href="#">Log In</a></li>
+		</ul>
+		</div>
+		</div>
+		
+		<!------------------------Single Prodcut------------------------->
+		
+		<section class="single-product">
+		<div class="container">
+		<div class="row">
+		<div class="col-md-5">
+			<div class="slider">
+			<div class="centeri" align="center" >
+				<img src="media\picture7.png" class="flouti">
+			</div>
+			</div>
+
+				
+				<div class="col-md-7">
+					<h2>Kahvi ja Pulla </h2>
+					<p>Product Code: KjP2020</p>
+		
+				
+					<p class="price">EUR 2.00€</p>
+	
+				</div>
+		</div>
+		
+		</div>
+		</div>
+		</section>
+		<!---------------------------------------Prodcut-info--------------------------------------->
+		<section class="product-description">
+			<div class="container">
+				<p class="superpieni">Tuotteet saattavat poiketa kuvista</p>
+				<hr>
+				
+				
+			</div>
+		</section>
+		
+		
+		<script>
+			function openmenu()
+			{
+				document.getElementById("side-menu").style.display="block";
+				document.getElementById("menu-btn").style.display="none";
+				document.getElementById("close-btn").style.display="block";
+			}
+		
+			function closemenu()
+			{
+				document.getElementById("side-menu").style.display="none";
+				document.getElementById("menu-btn").style.display="block";
+				document.getElementById("close-btn").style.display="none";
+			}
+		</script>
+	</body>
+			
+			
