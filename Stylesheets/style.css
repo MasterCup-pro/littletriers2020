@@ -211,8 +211,12 @@ body{
 	margin: 10px;
 	color: orange;
 	display: none;
-	
-	
+}
+#openvideobtn{
+	display: block;
+}
+#openedvideo{
+	display: none;
 }
 
 @media only screen and (max-width: 980px)
