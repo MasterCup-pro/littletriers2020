@@ -446,10 +446,15 @@ body{
 	margin-left: 400px;
 	
 	
+	
 }
+
+
 @media only screen and (max-width: 980px){
 	.korkeus{
 		margin-left: 0px;
+		width: 79%;
+		
 	
 }
 }
