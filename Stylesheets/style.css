@@ -338,7 +338,7 @@ body{
 
 .title-box2::after{
 	content: '';
-	border-top: 40px solid orange;
+	border-top: 80px solid orange;
 	border-right: 90px solid transparent;
 	position: absolute;
 	display: flex;
