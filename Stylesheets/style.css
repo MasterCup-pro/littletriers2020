@@ -336,6 +336,16 @@ body{
 	margin-left: 170px;
 }
 
+.title-box2::after{
+	content: '';
+	border-top: 40px solid orange;
+	border-right: 50px solid transparent;
+	position: absolute;
+	display: flex;
+	margin-top: -4px;
+	margin-left: 170px;
+}
+
 //-----------------product-top-----------------------*/
 .product-top img{
 	width: 100%;
