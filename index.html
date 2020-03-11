@@ -58,8 +58,8 @@
 		</ul>
 		</div>
 
- 	<img src="media/websitelogo.square.png" class="korkeus" onclick="openvideo()">
-
+ 		<img src="media/websitelogo.square.png" class="korkeus" id="openvideobtn" onclick="openvideo()">
+		<video href="https://www.youtube.com/watch?v=4T7CPlO3lQU" id="openedvideo" class="videostyle"> onclick="closevideo()+</video>
 	
 	</section>
 	<!--------------------------featured-categories---------------------------------->
@@ -285,8 +285,15 @@
 			}
 			function openvideo()
 			{
-				document.getElementById("korkeus").style.display="none";
-				document.getElementById("").style.display="block";
+				document.getElementById("openvideobtn").style.display="none";
+				document.getElementById("openedvideo").style.display="block";
+				
+			}
+			function opendevideo()
+			{
+				document.getElementById("openvideobtn").style.display="block";
+				document.getElementById("openedvideo").style.display="none";
+				
 				
 			}
 		</script>
