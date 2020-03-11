@@ -453,7 +453,8 @@ body{
 @media only screen and (max-width: 980px){
 	.korkeus{
 		margin-left: 0px;
-		width: 86%;
+		width: 100%;
+		height: 100%;
 		
 	
 }
