@@ -307,6 +307,18 @@ body{
 	
 }
 
+.title-box2{
+	background: orange;
+	color: #fff;
+	width: 220px;
+	padding: 4px 10px;
+	height: 40px;
+	margin-bottom: 30px;
+	display: flex;
+
+	
+	
+}
 .title-box h2{
 	font-size: 24px;
 	text-decoration: none;
