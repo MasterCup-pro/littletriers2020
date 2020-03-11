@@ -338,12 +338,12 @@ body{
 
 .title-box2::after{
 	content: '';
-	border-top: 80px solid orange;
-	border-right: 90px solid transparent;
+	border-top: 40px solid orange;
+	border-right: 50px solid transparent;
 	position: absolute;
 	display: flex;
 	margin-top: -4px;
-	margin-left: 170px;
+	margin-left: 210px;
 }
 
 //-----------------product-top-----------------------*/
