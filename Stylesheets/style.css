@@ -173,7 +173,7 @@ body{
 }
 .side-menu ul li:hover{
 	color: orange;
-
+	text-decoration: none;
 	
 	
 	
@@ -183,16 +183,18 @@ body{
 	display: none;
 	z-index: 10;
 	top: 87px;
+	text-decoration: none;
 	
 }
 .side-menu ul li:hover ul{
 	display: block;
 	height: 400px;
-	margin-left: 11%;
+	margin-left: 6%;
 	padding: 0 100px 10px 10px;
 	position: fixed;
 	background: #ececec;
 	box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.4);
+	text-decoration: none;
 
 	
 }
