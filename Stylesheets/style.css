@@ -687,3 +687,18 @@ body{
 	margin-bottom: 50%;
 	border: 3px solid #FFA500;
 }
+
+
+.heartti{
+	color: #FFFFFF;
+	transition: 0,5s;
+	text-transform: uppercase;
+	
+	
+}
+
+heartti.active{
+	background: transparent;
+	color: red;
+
+}
