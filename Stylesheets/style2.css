@@ -41,7 +41,7 @@ body{
 		
 }
 
-.nappula{
+.nappula1{
 	font-family: "Roboto", sans-serif;
 	text-transform: uppercase;
 	outline: 0;
@@ -52,6 +52,22 @@ body{
 	color: #FFFFFF;
 	font-size: 14px;
 	cursor: pointer;
+	margin-bottom: -5px;
+	
+	
+}
+.nappula2{
+	font-family: "Roboto", sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #FF8C00;
+	width: 100%;
+	border: 0;
+	padding: 15px;
+	color: #FFFFFF;
+	font-size: 14px;
+	cursor: pointer;
+	margin-top: -5px;
 	
 	
 }
