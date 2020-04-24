@@ -656,6 +656,10 @@ body{
 	text-align: center; 
 	
 }
+.kuvapieni{
+	width: 300px;
+	height: 230px;
+}
 /*---------------product-description------------------------*/
 
 .product-description h6{
