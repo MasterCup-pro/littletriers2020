@@ -1,4 +1,8 @@
-<!DOCTYPE>
+<?php
+
+
+?>
+
 <html lang="fi">
   <head>
 		<meta charset="utf-8">
@@ -12,6 +16,9 @@
 				
   
   </head>
+	<?php
+
+	?>
 	<body>
 		<div class="top-nav-bar">
 		<div class="search-box">
