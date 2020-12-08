@@ -1,7 +1,4 @@
-<?php
 
-
-?>
 
 <html lang="fi">
   <head>
@@ -16,9 +13,7 @@
 				
   
   </head>
-	<?php
-
-	?>
+	
 	<body>
 		<div class="top-nav-bar">
 		<div class="search-box">
